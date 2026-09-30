@@ -28,7 +28,7 @@ docker pull python:3.12-slim
 
 ## Teste automático (rodar em 1 máquina de cada imagem, e de preferência em todas)
 ```bash
-git clone [URL do template] teste-oficina
+git clone https://github.com/petrosbarreto/oficina-agentes-gemini teste-oficina
 cd teste-oficina
 python 00_setup/checar_laboratorio.py
 ```
