@@ -10,7 +10,7 @@ git remote add origin https://github.com/gdgrecife/oficina-agentes-gemini.git
 git push -u origin main
 ```
 3. No GitHub: **Settings › General › marque "Template repository"**. Isso habilita o botão *Use this template* para os participantes.
-4. Substitua `[URL do template]` no README, em `docs/GITHUB.md`, em `docs/LABORATORIO.md` e nos slides 9 e 51.
+4. Confira se o link do template está correto no README, em `docs/GITHUB.md`, em `docs/LABORATORIO.md` e nos slides 9 e 51.
 5. Gere um QR Code do link e coloque no slide 5.
 6. Exporte os slides em PDF (Share › Export) e adicione em `docs/slides.pdf`, para a turma levar junto:
 ```bash
