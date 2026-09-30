@@ -4,7 +4,7 @@ A ideia é simples: **você trabalha no SEU repositório desde o primeiro minuto
 
 ## 1. Criar seu repositório a partir do template (navegador)
 1. Abra uma **janela anônima** (o computador é compartilhado) e entre no https://github.com.
-2. Acesse o template da oficina: `[URL do template]`
+2. Acesse o template da oficina: `https://github.com/petrosbarreto/oficina-agentes-gemini`
 3. Clique em **Use this template › Create a new repository**.
 4. Nome sugerido: `meu-agente-gemini` · deixe **Public** (vira portfólio!) · **Create repository**.
 
