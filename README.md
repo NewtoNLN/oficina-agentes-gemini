@@ -13,7 +13,7 @@ pinned: false
 
 > **Rec'n'Play 2026 · 13h às 17h** · Oficina para quem está começando — nenhum conhecimento prévio de IA é necessário.
 >
-> Facilitação: **Petros Barreto** — Organizer do Google Developer Group Recife · SL no LuizaLabs · Professor Universitário (UNIT & UNIFG) · Mestrando no PPGEC/UPE
+> Facilitação: **Petros Barreto** — Organizer do Google Developer Group Recife · Coordenador de Sistemas na Magalu Cloud · Professor Universitário (UNIT & UNIFG) · Mestrando no PPGEC/UPE
 
 Ao final destas 4 horas você terá construído o **Guia Rec'n'Play**: um agente que conversa em português, consulta a programação do evento, busca o clima em tempo real, converte CEP em endereço, salva atividades na sua agenda recusando conflitos de horário, e **não inventa** informação.
 
