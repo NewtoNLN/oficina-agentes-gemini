@@ -45,7 +45,7 @@ E você sai com ele **pronto e seu**: no seu GitHub, com interface web e rodando
 > Nunca programou? Leia primeiro [`docs/PRIMEIROS_PASSOS.md`](docs/PRIMEIROS_PASSOS.md): editor, terminal, API, chave e Python básico.
 
 ### No laboratório (git, python e docker já instalados)
-1. Em uma **janela anônima**, entre no GitHub, abra `[URL do template]` e clique em **Use this template › Create a new repository** (nome sugerido: `meu-agente-gemini`).
+1. Em uma **janela anônima**, entre no GitHub, abra `https://github.com/petrosbarreto/oficina-agentes-gemini` e clique em **Use this template › Create a new repository** (nome sugerido: `meu-agente-gemini`).
 2. No terminal:
 ```bash
 git clone https://github.com/SEU_USUARIO/meu-agente-gemini.git
