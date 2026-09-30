@@ -14,7 +14,7 @@
 - [ ] Confirmar: VS Code instalado, Docker Desktop rodando para o usuário do aluno, `python:3.12-slim` pré-baixado
 - [ ] Perguntar à equipe se as máquinas são restauradas ao reiniciar (Deep Freeze)
 - [ ] Enviar `docs/PRE_OFICINA.md` aos inscritos (conta GitHub + chave da API)
-- [ ] Trocar `[URL do template]` nos slides 9 e 51 e adicionar QR Code
+- [x] Link do template e QR Code nos slides 9 e 51
 
 ## ✅ Checklist do dia (chegar 30 min antes)
 - [ ] Rodar `verificar_ambiente.py` e `docker compose up --build` em uma máquina do laboratório
